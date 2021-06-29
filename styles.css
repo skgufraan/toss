@@ -38,3 +38,15 @@ footer {
   text-align: center;
   font-family: 'Indie Flower', cursive;
 }
+
+a {
+  text-decoration: none;
+  font-family: 'Lobster', cursive;
+  font-size: 2rem;
+  color: #2c745c;
+  
+}
+
+button {
+  margin: 1rem 1rem auto auto;
+}
